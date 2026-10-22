@@ -1,4 +1,4 @@
-![Logo](https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/62397177-5bd7-41d3-bdde-58cbe8fdde60/Banner_linkedin/w=1920,quality=90,fit=scale-down)
+![Yasmani Viñamagua · Automatización de procesos con tecnología](https://raw.githubusercontent.com/Yasmani-Vinamagua/marca-personal/master/banners/banner-github.png)
 
 
 

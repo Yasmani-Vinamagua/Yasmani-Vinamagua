@@ -1,4 +1,4 @@
-![Yasmani Viñamagua · Automatización de procesos con tecnología](https://raw.githubusercontent.com/Yasmani-Vinamagua/marca-personal/master/banners/banner-github.png)
+![Yasmani Viñamagua · Automatización de procesos con tecnología](https://raw.githubusercontent.com/Yasmani-Vinamagua/Yasmani-Vinamagua/master/assets/banner-github.png)
 
 
 
